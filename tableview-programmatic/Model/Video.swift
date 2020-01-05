@@ -6,4 +6,10 @@
 //  Copyright © 2020 rapser. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+struct Video {
+    
+    var image: UIImage
+    var title: String
+}
